@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-reigne allyson de leon
-=======
 Reigne Allyson De Leon
 
-Eloise Abigail Abilgos
->>>>>>> 4e8214477aa21307bb0874699dc823f510c6d1d5
+Eloise Abigail Abilgos 
+
+BSCPE-CPE1 
